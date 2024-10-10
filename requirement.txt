@@ -1,0 +1,8 @@
+feedparser
+SQLAlchemy
+celery
+nltk
+spacy
+scikit-learn
+pandas
+joblib
